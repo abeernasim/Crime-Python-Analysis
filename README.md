@@ -7,7 +7,7 @@ This project analyzes Los Angeles crime data to identify patterns in criminal be
 ## Objective
 The aim of the project is to undertand the database of crimes to help allocate police forces where and when it is mostly needed. 
 ## Dataset used  
-<a href= "https://github.com/abeernasim/Crime-Python-Analysis/blob/main/crimes-compressed.csv" >Los Angles Crimes Data </a>
+<a href= "https://github.com/abeernasim/Crime-Python-Analysis/blob/main/crimes_compressed.csv" >Los Angles Crimes Data </a>
 ## Process 
 1- Data cleaning from any duplicates and replacing any missing or null values by authenticated values 
 2- Analyzing the data by reading and understanding the relationship between different values 
