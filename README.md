@@ -25,5 +25,8 @@ The aim of the project is to undertand the database of crimes to help allocate p
 - 'THEFT OF IDENTITY' is the most prevalent crime across the dataset. This crime type also remains the most common during both the peak crime hour (12:00 noon) and the hour with the least crime (05:00 AM)
 - 'THEFT OF IDENTITY' remains a highly prevalent crime type across many of these top areas, including 77th Street, Southwest, Pacific, Southeast, Newton, Van Nuys, Olympic, and Wilshire.However, other areas exhibit different dominant crimes such as Central and Hollywood.
 - While crime affects a broad demographic, certain groups, particularly those within the 20-40 age range and of Hispanic descent, may warrant more focused attention and protective measures.
+
+# Dashboard 
+<a href= "https://github.com/abeernasim/Crime-Python-Analysis/blob/main/Crime%20Analysis%20Dashboard%20.jpg"> Crime Analysis Dashboard</a>
 # Jupyter Notebook
 <a href= "https://github.com/abeernasim/Crime-Python-Analysis/blob/main/Crimes_Analysis_Project.ipynb" > Los Angles Crimes Angles </a>
