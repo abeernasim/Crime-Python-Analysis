@@ -1,7 +1,7 @@
 # Crime-Python-Analysis
 This project analyzes Los Angeles crime data to identify patterns in criminal behavior, aiming to assist the LAPD in effective resource allocation. 
 
-<img width="1465" height="792" alt="Los Angles Crimes " src="h-ef5d7e4ab12f" />
+<img width="1465" height="792" alt="Los Angles Crimes " src="https://github.com/abeernasim/Crime-Python-Analysis/blob/main/Crime%20Analysis%20Dashboard%20.jpg" />
 
 
 ## Objective
